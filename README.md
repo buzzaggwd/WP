@@ -1,6 +1,6 @@
 # Django application
 ## Description
-This pgoject is a web application built using Django.
+This project is a web application built using Django.
 
 ## Installation
 Clone the repository:
