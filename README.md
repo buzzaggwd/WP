@@ -3,12 +3,12 @@
 This project is a web application built using Django.
 
 ## Installation
-Clone the repository:
-  git clone https://github.com/buzzaggwd/WP.git
-  cd WP
-  cd eydis
-Run the server:
-  python manage.py runserver
+Clone the repository: \
+  git clone https://github.com/buzzaggwd/WP.git \
+  cd WP \
+  cd eydis \
+Run the server: \
+  python manage.py runserver 
 
 ## Usage
 Go to 127.0.0.1:8000/myname/ to see my name \
