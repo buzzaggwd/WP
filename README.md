@@ -6,9 +6,9 @@ This project is a web application built using Django.
 1. Clone the repository: \
   git clone https://github.com/buzzaggwd/WP.git \
   cd WP \
-  cd eydis \
+  cd eydis
 
-2 .Run the server: \
+2. Run the server: \
   python manage.py runserver 
 
 ## Usage
